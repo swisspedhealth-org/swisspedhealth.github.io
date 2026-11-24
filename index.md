@@ -243,7 +243,7 @@ and supports efforts to combat sepsis worldwide, and the
   </p>
   <ul class="contact">
     <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-    <li class="fa-phone">{{ site.phone }}</li>
+    <!-- <li class="fa-phone">{{ site.phone }}</li> -->
     <li class="fa-home">{{ site.street_address }}<br />
     {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
     {{ site.country }}</li>
